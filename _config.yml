@@ -1,10 +1,10 @@
 # Site settings
-title: Data Science Africa, Arusha
+title: Data Science Africa, Accra
 email: m.t.smith@sheffield.ac.uk
 banner: "Kampala_ug.jpg"
 description: > # this means to ignore newlines until "baseurl:"
-  The 2016 Data Science Africa summer school held at Makerere University.
-baseurl: "/dsa2016" # the subpath of your site, e.g. /blog/
+  The 2019 Data Science Africa summer school held Ashesi University.
+baseurl: "/:title.html" # the subpath of your site, e.g. /blog/
 #url: "to do" # the base hostname & protocol for your site
 twitter_username: datsciAfrica
 logo_url: img/logo.png
@@ -17,17 +17,17 @@ logo_url: img/logo.png
 
 school:
   name: Data Science in Africa School
-  location: Nelson Mandela Institute, Tanzania
+  location: Ashesi University, Ghana
   dates:
-  - {date: 10, day: Monday, month: July, year: 2017}
-  - {date: 11, day: Tuesday, month: July, year: 2017}
-  - {date: 12, day: Wednesday, month: July, year: 2017}
+  - {date: 21, day: Monday, month: October, year: 2019}
+  - {date: 22, day: Tuesday, month: October, year: 2019}
+  - {date: 23, day: Wednesday, month: October, year: 2019}
   registration:
     deadline:
-      date: 6
-      month: June
-      year: 2017
-    open: True
+      date: 01
+      month: July
+      year: 2019
+    open: False
   draft: Y # set to Y if the programme is draft only.
 
 conference:
@@ -41,14 +41,14 @@ conference:
   - {name: Mike Croucher, url: "http://www.walkingrandomly.com"}
   name: Data Science in Africa Workshop 
   location: Nelson Mandela Institute, Tanzania
-  year: 2017
-  month: July
+  year: 2019
+  month: October
   registration
     deadline:
-      date: 6
-      month: June
-      year: 2017
-    open: True
+      date: 01
+      month: July
+      year: 2019
+    open: False
   # add other days here for them to appear
   dates:	
   - {date: 13, day: Thursday, month: July, year: 2017}
