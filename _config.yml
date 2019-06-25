@@ -1,113 +1,108 @@
 # Site settings
 title: Data Science Africa
-location: Ashesi University, Ghana
+location: Accra, Ghana (21st - 25th October, 2019)
+city: Accra
 year: 2019
 email: info@datascienceafrica.org
-banner: "ashesi.jpg"
+banner: ashesi.jpg
 description: > # this means to ignore newlines until "baseurl:"
-  The 2019 Data Science Africa summer school.
+  The 2019 Data Science Africa summer school held at Ashesi University.
 baseurl: "/dsa2019accra" # the subpath of your site, e.g. /blog/
 url: "http://www.datascienceafrica.org" # the base hostname & protocol for your site
-twitter_username: datsciAfrica
+twitter_username: datascienceafrica.org #DatSciAfrica
 logo_url: img/logo.png
 github_username:  datsciafrica
-next:
-  url: /dsa2020tbc/
-  text: |
-    <div class="" style="
-                        font-weight: bold; 
-                        font-size: 18px;
- 
-                        ">TBC: Data Science Africa 2020</div>
-    <div>TBC <sup>st</sup>  - TBC<sup>th</sup> 2020</div>
-    <div>TBC<div>
- 
-next2:
-  url: /dsa2020tbc/
-  text: |
-    <div class="" style="
-                        font-weight: bold; 
-                        font-size: 18px;
- 
-                        ">TBC: Data Science Africa 2020</div>
-    <div>TBC<sup>th</sup>  - November TBC<sup>th</sup> 2018</div>
-    <div>Tbc, Tbc</div>
 
+other:
+  url: /dsa2019accra/
+  text: |
+    <div class="" style="
+                        font-weight: bold; 
+                        font-size: 18px;
+                        ">Next: Data Science Africa 2020</div>
+    <div> Dates: Tbc<sup>st</sup> - Tbc<sup>th</sup></div>
+    <div>Tbc, Country</div>
 previous:
   url: /dsa2019addis/
   text: | # From here to "school:"
     <div class="" style="
                         font-weight: bold; 
                         font-size: 18px;
-
-                        ">Previous: Data Science Africa 2019, Addis Ababa</div>
-    <div>June 27<sup>th</sup>  - July 1<sup>st</sup> 2019 (check)</div>
+                        ">Previous: Data Science Africa 2019 </div>
+    <div>June 3<sup>rd</sup> - June 7<sup>th</sup> 2019</div>
     <div>Addis Ababa, Ethiopia</div>
-
-
 social:
   title: Social Event
   text:
   
 school:  
   name: Data Science in Africa School
-  shortname: DSA2019ACCRA
-  location: ""
-  googleformid: Sq9P9uKrkG1K1f6W2
+  shortname: DSA2019
+  location: "Accra, Ghana"
+  googleformid: 
   dates:		
-  - 2017-07-17
-  - 2017-07-18
-  - 2017-07-19
+  - 2019-10-21
+  - 2019-10-22
+  - 2019-10-23
   registration:
-    deadline: 2017-06-26
+    deadline: 2019-TBC-TBC
     open: False
   draft: Y # set to Y if the programme is draft only.
   roles:
-  - {type: Organizer, name: Ernest Mwebaze, url: "http://air.ug/~emwebaze"}
-  - {type: Organizer, name: Mubangizi Martin Gordon, url: "http://air.ug/~mmubangizi"}
-  - {type: Organizer, name: John Quinn, url: "http://air.ug/~jquinn"}
-  - {type: Speaker, name: Mike Croucher, url: "http://www.walkingrandomly.com"}
-  - {type: Speaker, name: Mike Smith, url: "http://www.michaeltsmith.org"}
+  - {type: Organizer, name: Michael Melese, url: "https://sites.google.com/site/cwamainadekut"}  
+  - {type: Organizer, name: Dina Machuve, url: "http://air.ug/~mmubangizi"}
+#  - {type: Organizer, name: Charles I. Saidu, url: "http://air.ug/~jquinn"}
+#  - {type: Organizer, name: Samuel Grace Kehinde, url: "http://air.ug/~jquinn"}
 
 conference:
-  shortname: DSA2019ACCRA
+  shortname: DSA2019Accra
   theme: 
   hosts:
   roles:
-  - {type: General Chair, name: Dina Machuve, url: "http://www.nm-aist.ac.tz",email: "dina.machuve@nm-aist.ac.tz"}
-  - {type: Program Chair, name: Ciira Maina, url: "https://sites.google.com/site/cwamainadekut/", email: "ciira.maina@dkut.ac.ke"}
+  - {type: General Chair, name: TBC, url: "", email: "tbc"}
+  - {type: Program Chair, name: TBC, url: "", email: "tbc"}
   name: Data Science in Africa Workshop 
-  location: Accra, Ghana
-  googleformid: y6LIkrwjOTHZbbz33
+  location: "[specify]"
+  googleformid: [specify]
   year: 2019
-  month: ??
+  month: October
   registration:
-    deadline: TBC
-    open: False
+    deadline: 2019-TBC-TBC
+    open: True
   # add other days here for them to appear
-    abstract: TBC
+    abstract: 
+      deadline: 2019-TBC-TBC
+      googleformid: [specify]
   dates:	
-  - 2019-??-20
-  - 2019-??-21
+  - 2019-10-24
+  - 2019-10-25
   draft: Y # set to Y if the programme is draft only.
   organizers:
-  - {logo: AI.png, name: "AI Research, Makerere University"}
   - {logo: sheffield.png, name: University of Sheffield}
   - {logo: makerere.png, name: Makerere University}
   - {logo: plklogo.png, name: Pulse Lab Kampala}
-  - {logo: un_uganda1.png, name: United Nations Uganda}
   - {logo: dedan_kimathi.png, name: Dedan Kimathi University of Technology}
   - {logo: nmaist-logo.png, name: Nelson Mandela African Institute of Science and Technology}
+  - {logo: aust.jpg, name: African University of Science and Technology, Abuja}
+  - {logo: Addis_Ababa_University_logo.png, name: Addis Ababa University}
+  - {logo: Google.png, name: Google AI, Ghana}
+  - {logo: parisuni.png, name: Univ Paris, France}
+  - {logo: zindi.png, name: Zindi, South Africa}
   goldsponsors: 
   #- {logo: facebook.png, name: "Facebook"}  
   #- {logo: google.png, name: "Google"}
-  - {logo: ARM-RGB-2015.png, name: "ARM", url: "https://www.arm.com/"}
-  - {logo: ARMmbedLogo2-1170x316.png, name: "ARM mbed", url: "https://www.mbed.com/en/"}
-  - {logo: HDS_Logo.png, name: "Swansea University", url: "http://www.swansea.ac.uk/mschealthdatascience"}
-  - {logo: HI_Logo.png, name: "Swansea University", url: "http://www.mschealthinformatics.swansea.ac.uk"}
+  - {logo: arm-logo-blue-rgb.png, name: "ARM", url: "https://www.arm.com/"}
+  #- {logo: ArmMbedLogo.png, name: "ARM mbed", url: "https://www.mbed.com/en/"}
+  #- {logo: Amazon-logo-RGB.png, name: "Amazon", url: "https://www.amazon.com/"}
   silversponsors:
-  - {logo: twas.png, name: "The World Academy of Sciences (TWAS)", url: "http://twas.org/"}
-  
+  #- {logo: deepmind_logo.png, name: "DeepMind", url: "https://deepmind.com/"}
+  #- {logo: Google.png, name: "Google", url: "https://www.google.com/"}
+  - {logo: Voyage-new.jpg, name: "Voyage", url: "https://www.voyage.auto/"}
+  bronzesponsors:
+  - {logo: ApexAI.webp, name: ApexAI,url: "https://www.apex.ai/"}
+  - {logo: gigster.png, name: Gigster,url: "https://www.gigster.com/"}
+  - {logo: max.jpg, name: Max, url: "https://staff.fnwi.uva.nl/m.welling/"}
+
 feedback: 
 
 
