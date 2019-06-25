@@ -45,7 +45,7 @@ school:
   - 2019-10-22
   - 2019-10-23
   registration:
-    deadline: 2019-TBC-TBC
+    deadline: ""
     open: False
   draft: Y # set to Y if the programme is draft only.
   roles:
@@ -62,17 +62,17 @@ conference:
   - {type: General Chair, name: Dr. Ayokor Korsah, url: "", email: "akorsah@ashesi.edu.gh"}
   - {type: Program Chair, name: Charles Isah Saidu, url: "", email: "isaidu@aust.edu.ng"}
   name: Data Science in Africa Workshop 
-  location: "[specify]"
+  location: "University of Ghana, Accra"
   googleformid: [specify]
   year: 2019
   month: October
   registration:
-    deadline: 2019-TBC-TBC
+    deadline: ""
     open: False
   # add other days here for them to appear
     abstract: 
       deadline: 2019-TBC-TBC
-      googleformid: [specify]
+      googleformid:
   dates:	
   - 2019-10-24
   - 2019-10-25
