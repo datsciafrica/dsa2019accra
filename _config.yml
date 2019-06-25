@@ -1,48 +1,48 @@
 # Site settings
 title: Data Science Africa
-location: Arusha, Tanzania
-year: 2017
+location: Ashesi University, Ghana
+year: 2019
 email: info@datascienceafrica.org
-banner: "arusha.jpg"
+banner: "Ashesi's_Archer_Cornfield_Courtyard.jpg"
 description: > # this means to ignore newlines until "baseurl:"
-  The 2016 Data Science Africa summer school held at Makerere University.
-baseurl: "/dsa2017" # the subpath of your site, e.g. /blog/
+  The 2019 Data Science Africa summer school.
+baseurl: "/dsa2019accra" # the subpath of your site, e.g. /blog/
 url: "http://www.datascienceafrica.org" # the base hostname & protocol for your site
 twitter_username: datsciAfrica
 logo_url: img/logo.png
 github_username:  datsciafrica
 next:
-  url: /dsa2018/
+  url: /dsa2020tbc/
   text: |
     <div class="" style="
                         font-weight: bold; 
                         font-size: 18px;
  
-                        ">Kenya: Data Science Africa 2018</div>
-    <div>May 31 <sup>st</sup>  - June 08<sup>th</sup> 2018</div>
-    <div>Nyeri, Kenya</div>
+                        ">TBC: Data Science Africa 2020</div>
+    <div>TBC <sup>st</sup>  - TBC<sup>th</sup> 2020</div>
+    <div>TBC<div>
  
 next2:
-  url: /dsa2018abuja/
+  url: /dsa2020tbc/
   text: |
     <div class="" style="
                         font-weight: bold; 
                         font-size: 18px;
  
-                        ">Nigeria: Data Science Africa 2018</div>
-    <div>November 12<sup>th</sup>  - November 16<sup>th</sup> 2018</div>
-    <div>Abuja, Nigeria</div>
+                        ">TBC: Data Science Africa 2020</div>
+    <div>TBC<sup>th</sup>  - November TBC<sup>th</sup> 2018</div>
+    <div>Tbc, Tbc</div>
 
 previous:
-  url: /dsa2016/
+  url: /dsa2019addis/
   text: | # From here to "school:"
     <div class="" style="
                         font-weight: bold; 
                         font-size: 18px;
 
-                        ">Previous: Data Science Africa 2016</div>
-    <div>June 27<sup>th</sup>  - July 1<sup>st</sup> 2016</div>
-    <div>Kampala, Uganda</div>
+                        ">Previous: Data Science Africa 2019, Addis Ababa</div>
+    <div>June 27<sup>th</sup>  - July 1<sup>st</sup> 2019 (check)</div>
+    <div>Addis Ababa, Ethiopia</div>
 
 
 social:
@@ -51,8 +51,8 @@ social:
   
 school:  
   name: Data Science in Africa School
-  shortname: DSA2017
-  location: "Nelson Mandela African Institute of Science and Technology, Tanzania"
+  shortname: DSA2019ACCRA
+  location: ""
   googleformid: Sq9P9uKrkG1K1f6W2
   dates:		
   - 2017-07-17
@@ -70,25 +70,25 @@ school:
   - {type: Speaker, name: Mike Smith, url: "http://www.michaeltsmith.org"}
 
 conference:
-  shortname: DSA2017
+  shortname: DSA2019ACCRA
   theme: 
   hosts:
   roles:
   - {type: General Chair, name: Dina Machuve, url: "http://www.nm-aist.ac.tz",email: "dina.machuve@nm-aist.ac.tz"}
   - {type: Program Chair, name: Ciira Maina, url: "https://sites.google.com/site/cwamainadekut/", email: "ciira.maina@dkut.ac.ke"}
   name: Data Science in Africa Workshop 
-  location: Nelson Mandela African Institute of Science and Technology, Tanzania
+  location: Accra, Ghana
   googleformid: y6LIkrwjOTHZbbz33
-  year: 2017	
-  month: July
+  year: 2019
+  month: ??
   registration:
-    deadline: 2017-06-26
+    deadline: TBC
     open: False
   # add other days here for them to appear
-    abstract: 2017-05-26
+    abstract: TBC
   dates:	
-  - 2017-07-20
-  - 2017-07-21
+  - 2019-??-20
+  - 2019-??-21
   draft: Y # set to Y if the programme is draft only.
   organizers:
   - {logo: AI.png, name: "AI Research, Makerere University"}
