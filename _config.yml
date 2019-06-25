@@ -49,8 +49,8 @@ school:
     open: False
   draft: Y # set to Y if the programme is draft only.
   roles:
-  - {type: Organizer, name: Dr. Ayorkor Korsah, url: "#"}  
-  - {type: Organizer, name: Charles Isah Saidu, url: "#"}
+  - {type: Organizer, name: Dr. Ayorkor Korsah, url: "akorsah@ashesi.edu.gh"}  
+  - {type: Organizer, name: Charles Isah Saidu, url: "isaidu@aust.edu.com"}
 #  - {type: Organizer, name: Charles I. Saidu, url: "http://air.ug/~jquinn"}
 #  - {type: Organizer, name: Samuel Grace Kehinde, url: "http://air.ug/~jquinn"}
 
