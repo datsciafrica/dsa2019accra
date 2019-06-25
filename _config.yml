@@ -1,14 +1,14 @@
 # Site settings
 title: Data Science Africa, Accra
 email: m.t.smith@sheffield.ac.uk
-banner: "Kampala_ug.jpg"
+banner: "Balme_Library.JPG"
 description: > # this means to ignore newlines until "baseurl:"
-  The 2019 Data Science Africa summer school held Ashesi University.
-baseurl: "/:title.html" # the subpath of your site, e.g. /blog/
+  The 2019 Data Science Africa summer school held in Accra.
+baseurl: "/dsa2019accra" # the subpath of your site, e.g. /blog/
 #url: "to do" # the base hostname & protocol for your site
-twitter_username: datsciAfrica
+twitter_username: datascienceafrica.org
 logo_url: img/logo.png
-#github_username:  SheffieldML
+github_username: datsciafrica
 #facebook_page: gaussianprocesssummerschool
 
 # youtube:
@@ -51,8 +51,8 @@ conference:
     open: False
   # add other days here for them to appear
   dates:	
-  - {date: 13, day: Thursday, month: July, year: 2017}
-  - {date: 14, day: Friday, month: July, year: 2017}
+  - {date: 24, day: Thursday, month: October, year: 2019}
+  - {date: 25, day: Friday, month: October, year: 2019}
   draft: Y # set to Y if the programme is draft only.
   
 # Hero
