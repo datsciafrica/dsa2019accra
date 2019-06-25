@@ -38,7 +38,7 @@ social:
 school:  
   name: Data Science in Africa School
   shortname: DSA2019
-  location: "Accra, Ghana"
+  location: "University of Ashesi, Ghana"
   googleformid: 
   dates:		
   - 2019-10-21
@@ -49,18 +49,18 @@ school:
     open: False
   draft: Y # set to Y if the programme is draft only.
   roles:
-  - {type: Organizer, name: Michael Melese, url: "https://sites.google.com/site/cwamainadekut"}  
-  - {type: Organizer, name: Dina Machuve, url: "http://air.ug/~mmubangizi"}
+  - {type: Organizer, name: Dr. Ayorkor Korsah, url: "#"}  
+  - {type: Organizer, name: Charles Isah Saidu, url: "#"}
 #  - {type: Organizer, name: Charles I. Saidu, url: "http://air.ug/~jquinn"}
 #  - {type: Organizer, name: Samuel Grace Kehinde, url: "http://air.ug/~jquinn"}
 
 conference:
   shortname: DSA2019Accra
-  theme: 
-  hosts:
+  theme: End to End Data Science
+  hosts: University of Ashesi
   roles:
-  - {type: General Chair, name: TBC, url: "", email: "tbc"}
-  - {type: Program Chair, name: TBC, url: "", email: "tbc"}
+  - {type: General Chair, name: Dr. Ayokor Korsah, url: "", email: "tbc"}
+  - {type: Program Chair, name: Charles Isah Saidu, url: "", email: "tbc"}
   name: Data Science in Africa Workshop 
   location: "[specify]"
   googleformid: [specify]
