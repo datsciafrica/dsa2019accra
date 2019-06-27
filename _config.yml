@@ -44,9 +44,9 @@ school:
   - 2019-10-21
   - 2019-10-22
   - 2019-10-23
-  registration:
-    deadline: ""
-    open: False
+#   registration:
+#     deadline: ""
+#     open: False
   draft: Y # set to Y if the programme is draft only.
   roles:
   - {type: Organizer, name: Dr. Ayorkor Korsah, url: "akorsah@ashesi.edu.gh"}  
@@ -67,8 +67,8 @@ conference:
   year: 2019
   month: October
   registration:
-    deadline: ""
-    open: False
+#     deadline: ""
+#     open: False
   # add other days here for them to appear
     abstract: 
       deadline: 2019-TBC-TBC
