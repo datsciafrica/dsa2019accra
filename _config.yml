@@ -46,6 +46,9 @@ school:
   - 2019-10-23
   registration: 
     deadline: 
+      date: 30
+      month: September
+      year: 2019
     open: False
   draft: Y # set to Y if the programme is draft only.
   roles:
@@ -68,6 +71,9 @@ conference:
   month: October
   registration: 
     deadline: 
+      date: 30
+      month: September
+      year: 2019
     open: False
   # add other days here for them to appear
     abstract: 
