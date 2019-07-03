@@ -16,13 +16,15 @@
         <div style="font-size: 1.5em; 
                     /*color: #e6e6e6*/
                     ">Venue: {{ site.school.location }}</div>
-        {% if site.school.registration.open %}
-        <div style="font-size: 2.5em; 
+	<div>&nbsp</div>
+
+	      {% if site.school.registration.open %}
+	<div style="font-size: 2.5em; 
                     /*color: #e6e6e6; */
                     line-height: 1em;">
-          <h4 style="margin-bottom: 5px;">Registration is Open</h4>
+          <h style="margin-bottom: 2.5em;">Registration is Open</h4>
           <p>NOTE: Registration closes on 30 September, 2019</p>
-	  <p> <a href="assessment.html", target="_blank">Click to begin Registration</a> </p>
+<!-- 	  <p> <a href="assessment.html", target="_blank">Click to begin Registration</a> </p> -->
         </div>
 	{% endif %} 
 	      
