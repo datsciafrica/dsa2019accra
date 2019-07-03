@@ -47,9 +47,9 @@ school:
   registration: 
     deadline: 
       date: 30
-      month: September
+      month: 09
       year: 2019
-    open: False
+    open:True
   draft: Y # set to Y if the programme is draft only.
   roles:
   - {type: Organizer, name: Dr. Ayorkor Korsah, url: "akorsah@ashesi.edu.gh"}  
@@ -72,9 +72,9 @@ conference:
   registration: 
     deadline: 
       date: 30
-      month: September
+      month: 09
       year: 2019
-    open: False
+    open: True
   # add other days here for them to appear
     abstract: 
       deadline: 
