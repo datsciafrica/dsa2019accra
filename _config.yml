@@ -44,8 +44,8 @@ school:
   - 2019-10-21
   - 2019-10-22
   - 2019-10-23
-  registration:
-    deadline: ""
+  registration: 2019-07-02
+    deadline: 2019-09-30
     open: False
   draft: Y # set to Y if the programme is draft only.
   roles:
@@ -66,12 +66,12 @@ conference:
   googleformid: [specify]
   year: 2019
   month: October
-  registration:
-    deadline: ""
+  registration: 2019-07-02
+    deadline: 2019-09-30
     open: False
   # add other days here for them to appear
     abstract: 
-      deadline: 2019-TBC-TBC
+      deadline: 2019-09-30
       googleformid:
   dates:	
   - 2019-10-24
