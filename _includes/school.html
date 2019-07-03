@@ -17,6 +17,13 @@
                     /*color: #e6e6e6*/
                     ">Venue: {{ site.school.location }}</div>
         <div>&nbsp;</div>
+	{% if site.school.registration.open %}
+        <div style="padding: 20px 0px">
+          <h4 style="margin-bottom: 5px;">Important Dates</h4>
+          <p> {{ site.school.registration.deadline | date: "%d %B %Y" }}: Closing Date for Registration</p>
+        </div>
+	{% endif %} 
+	      
         <p align='justify'>
 	  
 	  In the tradition of previous Africa Data Science workshops, a summer school on machine learning and data science will be held prior to the main workshop. This summer school will target graduate students, researchers and professionals working with huge amounts of data or unique datasets. </p>
