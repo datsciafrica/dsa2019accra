@@ -74,7 +74,7 @@ conference:
       date: 30
       month: 09
       year: 2019
-    open: True
+    open: False
   # add other days here for them to appear
     abstract: 
       deadline: 
