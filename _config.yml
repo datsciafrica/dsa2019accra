@@ -70,13 +70,13 @@ conference:
   year: 2019
   month: October
   registration: 
-    deadline: 2019-09-30
-    date: 2019-09-30
+    deadline: 2019-09-20
+    date: 2019-09-20
     open: True
   # add other days here for them to appear
     abstract: 
-      deadline: 2019-09-30 
-      date: 2019-09-30
+      deadline: 2019-09-20 
+      date: 2019-09-20
       googleformid: https://forms.gle/9uCGC9EnFbjGq5WB6
   dates:	
   - 2019-10-24
