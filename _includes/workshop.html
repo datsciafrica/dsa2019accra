@@ -16,7 +16,7 @@
         <div style="padding: 20px 0px">
           <h4 style="margin-bottom: 5px;">Important Dates</h4>
           <p> {{ site.conference.registration.deadline | date: "%d %B %Y" }}: Abstract Submission Deadline</p>
-          <p> {{ site.conference.registration.date | date: "%d %B %Y" }}: Closing Date for Registration</p>
+          <p> {{ site.conference.registration.date | date: "%d %B %Y" }}: Closing Date for Registration</p>	  
         </div>
 	{% endif %}
 	{% if site.conference.theme %}
@@ -36,6 +36,8 @@
             Global Goals who are interested in the ways that big data
             and data science can have an impact in their field.
           </p>
+	   <p> Click {{site.conference.abstract.googleformid}} to begin workshop registration and submit your abstract. </p>
+		
 	  {% endif %}
           <p>The workshop will be organized around paper presentations and interactive panel discussions. We invite participants interested in presenting work at the workshop to submit a short abstract describing the application of data science methods to problems relevant to Africa. These may include, for example, the following areas:
 <ul>
