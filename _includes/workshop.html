@@ -16,8 +16,10 @@
         <div style="padding: 20px 0px">
           <h4 style="margin-bottom: 5px;">Important Dates</h4>
           <p> {{ site.conference.registration.deadline | date: "%d %B %Y" }}: Abstract Submission Deadline</p>
-          <p> {{ site.conference.registration.date | date: "%d %B %Y" }}: Closing Date for Registration</p>	  
+          <p> {{ site.conference.registration.date | date: "%d %B %Y" }}: Closing Date for Workshop Registration</p>	  
         </div>
+	<p><a href ="{{ site.conference.googleformurl }} " target="_blank">Register</a> for the workshop</p>
+	
 	{% endif %}
 	{% if site.conference.theme %}
         <div style="padding: 20px 0px">
