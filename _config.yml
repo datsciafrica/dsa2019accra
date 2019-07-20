@@ -67,6 +67,7 @@ conference:
   name: Data Science in Africa Workshop 
   location: "University of Ghana, Accra"
   googleformid: [specify]
+  googleformurl: https://forms.gle/npxRBRkL8RYQCZHa6
   year: 2019
   month: October
   registration: 
@@ -77,8 +78,7 @@ conference:
     abstract: 
       deadline: 2019-09-20 
       date: 2019-09-20
-      googleformid: 9uCGC9EnFbjGq5WB6
-      googleformurl: https://forms.gle/npxRBRkL8RYQCZHa6
+      googleformid:       
   dates:	
   - 2019-10-24
   - 2019-10-25
