@@ -74,11 +74,14 @@ conference:
       date: 30
       month: 09
       year: 2019
-    open: False
+    open: True
   # add other days here for them to appear
     abstract: 
       deadline: 
-      googleformid:
+      date: 30
+      month: 09
+      year: 2019
+      googleformid: https://forms.gle/9uCGC9EnFbjGq5WB6
   dates:	
   - 2019-10-24
   - 2019-10-25
