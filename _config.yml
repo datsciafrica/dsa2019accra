@@ -71,7 +71,7 @@ conference:
   month: October
   registration: 
     deadline: 2019-09-30
-      date: 2019-09-30
+    date: 2019-09-30
     open: True
   # add other days here for them to appear
     abstract: 
