@@ -60,12 +60,12 @@ school:
 conference:
   shortname: DSA2019Accra
   theme: End to End Data Science
-  hosts: University of Ghana
+  hosts: Ashesi University, Ghana
   roles:
   - {type: General Chair, name: Dr. Ayokor Korsah, url: "", email: "akorsah@ashesi.edu.gh"}
   - {type: Program Chair, name: Charles Isah Saidu, url: "", email: "isaidu@aust.edu.ng"}
   name: Data Science in Africa Workshop 
-  location: "University of Ghana, Accra"
+  location: "Ashesi University, Ghana"
   googleformid: [specify]
   googleformurl: https://forms.gle/npxRBRkL8RYQCZHa6
   year: 2019
