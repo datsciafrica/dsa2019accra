@@ -107,7 +107,7 @@ conference:
   #- {logo: Google.png, name: "Google", url: "https://www.google.com/"}
   #- {logo: Voyage-new.jpg, name: "Voyage", url: "https://www.voyage.auto/"}
   bronzesponsors:
-  - {logo: rancard.png, name: Rancard Solutions,url: "https://www.rancard.com/"}
+  - {logo: rancard.png, name: "Rancard Solutions", url: "https://www.rancard.com/"}
   #- {logo: gigster.png, name: Gigster,url: "https://www.gigster.com/"}
   #- {logo: max.jpg, name: Max, url: "https://staff.fnwi.uva.nl/m.welling/"}
 
