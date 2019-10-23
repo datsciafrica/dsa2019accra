@@ -50,7 +50,7 @@ school:
       month: 09
       year: 2019
     open: False
-  draft: Y # set to Y if the programme is draft only.
+  draft: N # set to Y if the programme is draft only.
   roles:
   - {type: Organizer, name: Ayorkor Korsah, url: "akorsah@ashesi.edu.gh"}  
   - {type: Organizer, name: Charles Isah Saidu, url: "isaidu@aust.edu.com"}
@@ -82,7 +82,7 @@ conference:
   dates:	
   - 2019-10-24
   - 2019-10-25
-  draft: Y # set to Y if the programme is draft only.
+  draft: N # set to Y if the programme is draft only.
   organizers:
   - {logo: sheffield.png, name: University of Sheffield}
   - {logo: makerere.png, name: Makerere University}
